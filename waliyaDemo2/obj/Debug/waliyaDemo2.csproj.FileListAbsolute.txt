@@ -1,0 +1,29 @@
+c:\users\eli\documents\visual studio 2015\Projects\waliyaDemo2\waliyaDemo2\bin\Debug\waliyaDemo2.exe.config
+C:\Users\Eli\documents\visual studio 2015\Projects\waliyaDemo2\waliyaDemo2\bin\Debug\waliyaDemo2.exe
+C:\Users\Eli\documents\visual studio 2015\Projects\waliyaDemo2\waliyaDemo2\bin\Debug\waliyaDemo2.pdb
+C:\Users\Eli\documents\visual studio 2015\Projects\waliyaDemo2\waliyaDemo2\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Eli\documents\visual studio 2015\Projects\waliyaDemo2\waliyaDemo2\obj\Debug\waliyaDemo2.forms.Homepage.resources
+C:\Users\Eli\documents\visual studio 2015\Projects\waliyaDemo2\waliyaDemo2\obj\Debug\waliyaDemo2.Form1.resources
+C:\Users\Eli\documents\visual studio 2015\Projects\waliyaDemo2\waliyaDemo2\obj\Debug\waliyaDemo2.Properties.Resources.resources
+C:\Users\Eli\documents\visual studio 2015\Projects\waliyaDemo2\waliyaDemo2\obj\Debug\waliyaDemo2.csproj.GenerateResource.Cache
+C:\Users\Eli\documents\visual studio 2015\Projects\waliyaDemo2\waliyaDemo2\obj\Debug\waliyaDemo2.exe
+C:\Users\Eli\documents\visual studio 2015\Projects\waliyaDemo2\waliyaDemo2\obj\Debug\waliyaDemo2.pdb
+C:\Users\Eli\Documents\Visual Studio 2015\Projects\waliyaDemo2\waliyaDemo2\bin\Debug\BunifuDataViz 1.0.1.dll
+C:\Users\Eli\Documents\Visual Studio 2015\Projects\waliyaDemo2\waliyaDemo2\bin\Debug\BunifuDataViz 1.0.1.xml
+C:\Users\Eli\Documents\Visual Studio 2015\Projects\waliyaDemo2\waliyaDemo2\obj\Debug\waliyaDemo2.usercontrol.VehicleInsurance.resources
+C:\Users\Eli\Documents\Visual Studio 2015\Projects\waliyaDemo2\waliyaDemo2\obj\Debug\waliyaDemo2.usercontrol.MyAccount.resources
+C:\Users\Eli\Documents\Visual Studio 2015\Projects\waliyaDemo2\waliyaDemo2\obj\Debug\waliyaDemo2.usercontrol.claims_and_incidents.resources
+C:\Users\Eli\Documents\Visual Studio 2015\Projects\waliyaDemo2\waliyaDemo2\obj\Debug\waliyaDemo2.usercontrol.AboutWaliya.resources
+C:\Users\Eli\Documents\Visual Studio 2015\Projects\waliyaDemo2\waliyaDemo2\obj\Debug\waliyaDemo2.usercontrol.ContactUs.resources
+C:\Users\Eli\Documents\Visual Studio 2015\Projects\waliyaDemo2\waliyaDemo2\obj\Debug\waliyaDemo2.usercontrol.QuoteDetail.resources
+C:\Users\Eli\Documents\Visual Studio 2015\Projects\waliyaDemo2\waliyaDemo2\obj\Debug\waliyaDemo2.usercontrol.Detail.resources
+C:\Users\Eli\Documents\Visual Studio 2015\Projects\waliyaDemo2\waliyaDemo2\obj\Debug\waliyaDemo2.usercontrol.Driver.resources
+C:\Users\Eli\Documents\Visual Studio 2015\Projects\waliyaDemo2\waliyaDemo2\obj\Debug\waliyaDemo2.usercontrol.Vehicle.resources
+C:\Users\Eli\documents\visual studio 2015\Projects\waliyaDemo2\waliyaDemo2\obj\Debug\waliyaDemo2.forms.GetQuotes.resources
+C:\Users\Eli\documents\visual studio 2015\Projects\waliyaDemo2\waliyaDemo2\obj\Debug\waliyaDemo2.usercontrol.custo.resources
+C:\Users\Eli\documents\visual studio 2015\Projects\waliyaDemo2\waliyaDemo2\obj\Debug\waliyaDemo2.usercontrol.Customer1.resources
+C:\Users\Eli\documents\visual studio 2015\Projects\waliyaDemo2\waliyaDemo2\obj\Debug\waliyaDemo2.usercontrol.commute.resources
+C:\Users\Eli\documents\visual studio 2015\Projects\waliyaDemo2\waliyaDemo2\obj\Debug\waliyaDemo2.csprojResolveAssemblyReference.cache
+C:\Users\Eli\Desktop\Insurance\waliyaDemo2\bin\Debug\waliyaDemo2.exe.config
+C:\Users\Eli\Desktop\Insurance\waliyaDemo2\obj\Debug\waliyaDemo2.exe
+C:\Users\Eli\Desktop\Insurance\waliyaDemo2\obj\Debug\waliyaDemo2.pdb
